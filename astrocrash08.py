@@ -1,5 +1,5 @@
 #ASTROCRASH THE GAME, сделано по исходникам из книги Майкла Доусона Python for beginners
-
+#Григорчук Алина, группа R3181
 import math, random
 from livewires import games, color #Отвечает за графику, не робит без модуля pygame
 
